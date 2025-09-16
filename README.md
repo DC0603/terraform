@@ -61,3 +61,12 @@ An intelligent AI-powered agent for automating Azure infrastructure provisioning
 ```bash
 git clone https://github.com/DC0603/terraform.git
 cd terraform
+
+2. **Install Dependencies**
+npm install
+
+3. **Start the development server**
+npm start
+
+4. Open your browser
+Navigate to http://localhost:3000
